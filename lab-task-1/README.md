@@ -1,13 +1,5 @@
 # CSO241-AI Lab Assignment 1
 
-## Author Details
-
-```
-Name - Shivani
-Username - grad-date
-Roll No - 19074017
-```
-
 
 ![title](assets/1.png)
 ![title](assets/2.png)
