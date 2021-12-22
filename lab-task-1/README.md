@@ -1,4 +1,4 @@
-# CSO241-AI Lab Assignment 1
+# CSO241-AI Lab Assignment 1: Tic Tac Toe
 
 ## Author Details
 
