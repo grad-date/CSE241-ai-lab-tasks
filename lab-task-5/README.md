@@ -40,7 +40,7 @@ Suffixes follow the stem: -ed, -s, un-, -ly
 
 ## Morphological Analysis
 
-![analysis](https://cs.union.edu/~striegnk/courses/nlp-with-prolog/html/latex16.gif)
+![analysis](assets/img.png)
 
 Morphological analysis (MA) is a method for identifying, structuring and investigating the total set of possible relationships in a given multidimensional problem complex. MA allows small groups of subject specialists to define, link, and internally evaluate the parameters of complex problem spaces, creating a solution space and a flexible inference model. MA has been applied successfully in strategic planning and decision support in various domains, such as governance of technological development and modelling the Bioethics of drug redevelopment, which were reported more comprehensively by Ritchey.
 
